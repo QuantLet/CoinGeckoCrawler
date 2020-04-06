@@ -16,4 +16,4 @@ Keywords : 'Scraper, Crawler, CoinGecko, Cryptocurrencies, Marketcapitalization'
 
 
 
-Author : 'Konstantin Häusler and Vanessa Emanuela Guarino'
+Author : 'Konstantin Häusler, Junjie Hu, Vanessa Emmanuela Guarino'
