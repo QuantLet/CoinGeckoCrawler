@@ -1,0 +1,19 @@
+Name of QuantLet : 'CoinGeckoCrawler'
+
+
+
+Published in : 'BRC-RDC' 
+
+
+
+Description : 'Scrapes Data on Market Capitalization, Price and Volume of all coins listed at CoinGecko.com, using the API provided by CoinGecko'
+
+
+
+
+Keywords : 'Scraper, Crawler, CoinGecko, Cryptocurrencies, Marketcapitalization'
+
+
+
+
+Author : 'Konstantin Häusler and Vanessa Emanuela Guarino'
